@@ -1,0 +1,9 @@
+toml
+[versions]
+# ... keep existing versions ...
+glide = "4.16.0"
+
+[libraries]
+# ... keep existing libraries ...
+glide = { group = "com.github.bumptech.glide", name = "glide", version.ref = "glide" }
+glide-compiler = { group = "com.github.bumptech.glide", name = "compiler", version.ref = "glide" }

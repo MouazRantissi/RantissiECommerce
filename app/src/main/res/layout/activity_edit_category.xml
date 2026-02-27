@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/etEditCategoryName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Category Name"
+        android:background="@android:drawable/edit_text"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etEditCategoryImageUrl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Image URL"
+        android:background="@android:drawable/edit_text"
+        android:padding="12dp"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnUpdateCategory"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Update Category"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btnDeleteCategory"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Delete Category"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:textColor="@android:color/white"/>
+</LinearLayout>

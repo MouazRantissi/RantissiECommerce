@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578319617151",
+    "firebase_url": "https://rantissiecommerce-a96b0be6-default-rtdb.firebaseio.com",
+    "project_id": "rantissiecommerce-a96b0be6",
+    "storage_bucket": "rantissiecommerce-a96b0be6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578319617151:android:fc317ef79b1f28b962834a",
+        "android_client_info": {
+          "package_name": "com.example.rantissie_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW5tQeg4gVJ2pfuwMMQE7-1HSq6eGjreg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
