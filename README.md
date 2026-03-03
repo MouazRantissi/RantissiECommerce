@@ -2,7 +2,7 @@
 
 A native Android E-Commerce application built with Java and Firebase. This app provides a seamless shopping experience for customers and a robust, multi-tiered administrative dashboard for inventory and user management.
 
-Developed by Islam Ziada.
+Developed by Mouaz Al-Rantissi.
 
 ## 🚀 Features
 
